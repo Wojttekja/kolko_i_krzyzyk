@@ -1,0 +1,105 @@
+n o x
+n o n
+o x n
+
+zaczyna x
+scenariusze wygrany o:
+x o x
+o o o
+o x x
+
+x o x
+o o o
+o x x
+
+o o x
+x o x
+o x o
+
+o o x
+x o x
+o x o
+
+o o x
+x o x
+o x o
+
+o o x
+x o x
+o x o
+
+x o x
+o o o
+o x x
+
+x o x
+o o o
+o x x
+
+
+scenariusze wygrany x:
+o o x
+n o x
+o x x
+
+n o x
+o o x
+o x x
+
+o o x
+n o x
+o x x
+
+n o x
+o o x
+o x x
+
+
+scenariusze remisu:
+x o x
+o o x
+o x o
+
+x o x
+x o o
+o x o
+
+x o x
+x o o
+o x o
+
+x o x
+o o x
+o x o
+
+o o x
+x o o
+o x x
+
+x o x
+x o o
+o x o
+
+o o x
+x o o
+o x x
+
+x o x
+x o o
+o x o
+
+x o x
+o o x
+o x o
+
+x o x
+o o x
+o x o
+
+o o x
+x o o
+o x x
+
+o o x
+x o o
+o x x
