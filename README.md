@@ -1,2 +1,2 @@
 # kolko_i_krzyzyk
-Wyswietla wszytskie mozliwe zakonczenia partii w kółko i krzyżyk
+Wyświetla wszystkie możliwe zakończenia partii w kółko i krzyżyk z podziałem na zycięsców
